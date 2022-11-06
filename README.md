@@ -1,4 +1,4 @@
-![alt text](assets/hard_guy.png)
+![alt text](hard_guy.png)
 
 <p  align="center"><a align='center' href='#projects'>MY PROJECTS</a></p>
 <p align="center">Sed porttitor lectus nibh. Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et, <a href="#">Twitter</a> porttitor at sem.</p>
